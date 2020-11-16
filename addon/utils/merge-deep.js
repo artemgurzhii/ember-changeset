@@ -1,5 +1,4 @@
-import { Change } from 'validated-changeset';
-import { normalizeObject } from 'validated-changeset';
+import { Change, normalizeObject } from 'validated-changeset';
 
 function isMergeableObject(value) {
   return isNonNullObject(value) && !isSpecial(value);
