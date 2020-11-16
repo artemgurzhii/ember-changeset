@@ -13344,7 +13344,7 @@ validate-npm-package-name@~2.2.2:
   dependencies:
     builtins "0.0.7"
 
-validated-changeset@~0.10.0:
+validated-changeset@0.10.0:
   version "0.10.0"
   resolved "https://registry.yarnpkg.com/validated-changeset/-/validated-changeset-0.10.0.tgz#2e8188c089ab282c1b51fba3c289073f6bd14c8b"
   integrity sha512-n8NB3ol6Tbi0O7bnq1wz81m5Wd1gfHw0HUcH4MatOfqO3DyXzWZV+bUaNq6wThXn20rMFB82C8pTNFSWbgXJLA==
